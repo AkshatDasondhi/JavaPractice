@@ -1,4 +1,4 @@
-package Beans;
+package JavaBeans;
 
 import java.awt.*;
 import javax.swing.*;
