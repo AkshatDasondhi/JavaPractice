@@ -6,5 +6,7 @@ public class Print {
         int n = sc.nextInt();
         System.out.println(n);   
         System.out.println("hello");
+
+        
     }
 }
