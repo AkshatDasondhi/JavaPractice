@@ -8,6 +8,5 @@ public class Print {
         System.out.println("hello");
 
 
-
     }
 }
