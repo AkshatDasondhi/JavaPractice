@@ -7,6 +7,5 @@ public class Print {
         System.out.println(n);   
         System.out.println("hello");
 
-
     }
 }
