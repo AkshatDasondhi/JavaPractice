@@ -17,7 +17,6 @@ public class Encapsulation {
 		Game gta = new Game();
 		gta.setGame("Grand Theft Auto");
 		gta.setSize(72);
-
 		System.out.println("Game: " + gta.getGame());
 		System.out.println("Size: " + gta.getSize());
 	}  
