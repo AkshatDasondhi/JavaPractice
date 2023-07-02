@@ -21,3 +21,5 @@ public class Encapsulation {
 		System.out.println("Size: " + gta.getSize());
 	}  
 }
+
+// h
